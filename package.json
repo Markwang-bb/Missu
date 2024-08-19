@@ -1,6 +1,6 @@
 {
   "name": "Missu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "<h1 class='center'>missu</h1> <div class=\"center\">   <p class=center>     <a href=\"#\">中文</a>      <a href=\"#\">英文</a>   </p>   Python 爬虫 通用模板 </div>",
   "main": "main.js",
   "scripts": {
