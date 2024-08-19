@@ -22,3 +22,8 @@ pip3 install requests beautifulsoup4
 
 1. 修改 SimpleSpider 类的 base_url 参数为你需要抓取的网页 URL。
 2. 根据具体网页的结构，在 extract_data 方法中添加逻辑以提取所需的数据。
+
+### 版本
+
+* 0.0.1 发布
+* 0.0.2 排版好看一点
