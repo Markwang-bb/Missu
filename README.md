@@ -1,10 +1,10 @@
-<h1 class='center'>missu</h1>
-<div class="center">
-  <p class=center>
-    <a href="#">中文</a>
-     <a href="#">英文</a>
-  </p>
-  Python 爬虫 通用模板
+<h1 align="center">Missu</h1>
+<div align="center">
+<p align="center">
+  <a href="#">中文</a>｜
+  <a href="#">英文</a>
+</p>
+爬虫通用模板
 </div>
 
 ## 安装 
