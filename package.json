@@ -1,0 +1,12 @@
+{
+  "name": "Missu",
+  "version": "0.0.1",
+  "description": "<h1 class='center'>missu</h1> <div class=\"center\">   <p class=center>     <a href=\"#\">中文</a>      <a href=\"#\">英文</a>   </p>   Python 爬虫 通用模板 </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
